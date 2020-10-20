@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/ip_api.svg)](https://badge.fury.io/rb/ip_api)
+
 # IP API ruby client
 
 This is `ip_api` gem, a ruby client for the IP API from https://ip-api.com. IP-API offers fast and secure IP geolocation data free for non-commercial use. No API key required. 
