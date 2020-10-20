@@ -27,7 +27,7 @@ RSpec.describe IpApi::Client do
 
     it "should raise error on invalid options" do
       expect { client.send(:build_query, foo: 'bar') }
-        .to raise_error(ArgumentError, 'unknown keyword: :foo')
+        .to raise_error(ArgumentError, /unknown keyword: :?foo/)
     end
   end
 
