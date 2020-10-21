@@ -14,4 +14,4 @@ gem 'pry-doc'
 
 gem 'reek'
 gem 'rubocop'
-gem 'simplecov'
+gem 'simplecov', '~> 0.17.1'
