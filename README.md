@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/ip_api.svg)](https://badge.fury.io/rb/ip_api)
+[![Gem Version](https://badge.fury.io/rb/ip_api.svg)](https://badge.fury.io/rb/ip_api) [![Build Status](https://travis-ci.com/calas/ip-api-ruby.svg?branch=main)](https://travis-ci.com/calas/ip-api-ruby) [![Maintainability](https://api.codeclimate.com/v1/badges/588099ff217ac668999d/maintainability)](https://codeclimate.com/github/calas/ip-api-ruby/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/588099ff217ac668999d/test_coverage)](https://codeclimate.com/github/calas/ip-api-ruby/test_coverage)
 
 # IP API ruby client
 
