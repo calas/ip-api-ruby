@@ -1,8 +1,11 @@
-require "ip_api/version"
-require "ip_api/fields"
-require "ip_api/client"
+# frozen_string_literal: true
 
+require 'ip_api/version'
+require 'ip_api/client'
+
+# Main IpApi module
 module IpApi
+  # Base error class for IpApi
   class Error < StandardError; end
 
   def self.info(*args)

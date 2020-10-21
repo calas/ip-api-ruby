@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 RSpec.describe IpApi do
-  it "has a version number" do
+  it 'has a version number' do
     expect(IpApi::VERSION).not_to be nil
   end
 
-  context "IpApi.info" do 
+  context 'IpApi.info' do
     it "passes it's arguments to a new Client instance's fetch method" do
       client = double(fetch: nil)
 
